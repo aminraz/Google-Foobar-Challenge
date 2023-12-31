@@ -1,0 +1,11 @@
+I present my solutions to some of the tasks in the Google Foobar
+challenge. [[https://foobar.withgoogle.com/][Foobar]] is a coding challenge provided by Google. I was
+invited to this challenge while I was searching about Python in
+Google.
+
+In this folder there are multiple Python scripts with their
+corresponding org files. In the org files you can see the task and in
+the Python file you can find the solution.
+
+Python scripts passed the tests of Google foobar challenge. They
+belong to different levels of the challenge from level one to three.
