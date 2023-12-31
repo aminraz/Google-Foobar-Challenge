@@ -68,12 +68,20 @@ be run against hidden test cases not shown here.
 
 -- Java cases --
 
-Input:Solution.solution(17, 4)Output:    14
+Input:Solution.solution(17, 4)
 
-Input:Solution.solution(0, 3)Output:    2
+Output:    14
+
+Input:Solution.solution(0, 3)
+
+Output:    2
 
 -- Python cases --
 
-Input:solution.solution(0, 3)Output:    2
+Input:solution.solution(0, 3)
 
-Input:solution.solution(17, 4)Output:    14
+Output:    2
+
+Input:solution.solution(17, 4)
+
+Output:    14

@@ -30,13 +30,21 @@ shown here.
 
 -- Java cases
 
--- Input: Solution.solution(0) Output: 23571
+-- Input: Solution.solution(0)
 
-Input: Solution.solution(3) Output: 71113
+Output: 23571
+
+Input: Solution.solution(3)
+
+Output: 71113
 
 -- Python cases
 
--- Input: solution.solution(0) Output: 23571
+-- Input: solution.solution(0)
 
-Input: solution.solution(3) Output: 71113
+Output: 23571
+
+Input: solution.solution(3)
+
+Output: 71113
 

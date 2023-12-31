@@ -30,12 +30,20 @@ here.
 
 -- Java cases --
 
-Input:Solution.solution({3, 1, 4, 1})Output:    4311
+Input:Solution.solution({3, 1, 4, 1})
 
-Input:Solution.solution({3, 1, 4, 1, 5, 9})Output:    94311
+Output:    4311
+
+Input:Solution.solution({3, 1, 4, 1, 5, 9})
+
+Output:    94311
 
 -- Python cases --
 
-Input:solution.solution([3, 1, 4, 1])Output:    4311
+Input:solution.solution([3, 1, 4, 1])
 
-Input:solution.solution([3, 1, 4, 1, 5, 9])Output:    94311
+Output:    4311
+
+Input:solution.solution([3, 1, 4, 1, 5, 9])
+
+Output:    94311
