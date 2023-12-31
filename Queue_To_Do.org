@@ -56,20 +56,24 @@ just enough time to find out the ID of the first worker to be checked
 review occurs, so your program must generate the proper checksum with
 just those two values.
 
-Languages=========
+Languages
+
 To provide a Java solution, edit Solution.java
 To provide a Python solution, edit solution.py
 
-Test cases==========
+Test cases
 
 Your code should pass the following test cases.Note that it may also
 be run against hidden test cases not shown here.
 
 -- Java cases --
+
 Input:Solution.solution(17, 4)Output:    14
 
 Input:Solution.solution(0, 3)Output:    2
+
 -- Python cases --
+
 Input:solution.solution(0, 3)Output:    2
 
 Input:solution.solution(17, 4)Output:    14
